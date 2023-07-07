@@ -1,3 +1,6 @@
+import React from "react";
+
+
 const LocationPage = () => {
     return (
       <div className="bg-gray-100">
